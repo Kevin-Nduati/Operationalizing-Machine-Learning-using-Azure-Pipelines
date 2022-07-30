@@ -6,3 +6,4 @@ The dataset contains information about clients.
 <img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/master/images/00-Architecture.png">
 
 
+# Authentification
