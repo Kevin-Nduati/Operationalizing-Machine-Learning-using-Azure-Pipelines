@@ -29,3 +29,14 @@ The model was deployed, application insights were enabled and the logs were also
 
 Logs:
 <img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/master/images/05-Logs.png">
+
+# Swagger Documentation
+The deployed model was consumed using swagger. This is done by copying the model's swagger JSON file is copied and used in accessing the documentation. Here are the screenshots
+
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/06-insights.png">
+
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/07-deployment_logs.png"> 
+
+
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/08-swagger.png">
+
