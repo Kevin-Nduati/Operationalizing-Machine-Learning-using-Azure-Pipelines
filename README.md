@@ -3,6 +3,6 @@ The aim of this project was to create a machine learning model on Microsoft Azur
 The dataset contains information about clients. 
 
 # Architecture Design
-<img src="/home/kevin/Documents/2nd Project/Operationalizing-Machine-Learning-using-Azure-Pipelines/images/00-Architecture.png">
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/master/images/00-Architecture.png">
 
 
