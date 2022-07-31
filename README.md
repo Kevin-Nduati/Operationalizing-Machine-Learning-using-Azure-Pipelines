@@ -54,3 +54,6 @@ At tis stage, I created, published and consumed a pipeline. Screenshots from the
 
 <img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/12-Automl_module.png">
 
+
+# Documentation
+The screencast can be found here: <a href="https://youtu.be/QNM87ur2YvY"></a>
