@@ -56,17 +56,17 @@ At tis stage, I created, published and consumed a pipeline. Screenshots from the
 
 <img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/11-Pipeline_endpoints.png">
 
-<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/12-Automl_module.png">
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/12-Automl_module1.png">
 
-<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/e98e017a2ba9ebd01b17d243ac0b9c03559da465/images/12-Automl_endpoint.png">
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/6b7954937a1b9b2045e0b12939213b690f9e2822/images/13-Automl_endpoints.png">
 
 The runDetails widgets cannot be displayed:
-<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/master/images/14-widgets.png">
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/6b7954937a1b9b2045e0b12939213b690f9e2822/images/14-widgets.png">
 
 
 ML studio showing the scheduled run using Published Pipeline REST Endpoint :
-<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/master/images/16-Pipeline_runs.png">
-<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/master/images/17-Pipeline_runs.png">
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/6b7954937a1b9b2045e0b12939213b690f9e2822/images/16-Pipeline_runs.png">
+<img src="https://github.com/Kevin-Nduati/Operationalizing-Machine-Learning-using-Azure-Pipelines/blob/6b7954937a1b9b2045e0b12939213b690f9e2822/images/17-Pipeline_runs.png">
 
 # Documentation
 The screencast can be found here: <a href="https://youtu.be/QNM87ur2YvY">Screencast</a>
