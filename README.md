@@ -57,3 +57,6 @@ At tis stage, I created, published and consumed a pipeline. Screenshots from the
 
 # Documentation
 The screencast can be found here: <a href="https://youtu.be/QNM87ur2YvY">Screencast</a>
+
+# Future Improvement Suggestions
+I think the model would be better if data preprocessing was done. I also noted that there was a class imbalance, yet no balancing techniques such as SMOTE were done. 
