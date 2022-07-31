@@ -56,4 +56,4 @@ At tis stage, I created, published and consumed a pipeline. Screenshots from the
 
 
 # Documentation
-The screencast can be found here: <a href="https://youtu.be/QNM87ur2YvY"></a>
+The screencast can be found here: <a href="https://youtu.be/QNM87ur2YvY">Screencast</a>
